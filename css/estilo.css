@@ -5,7 +5,23 @@ header{
 } 
 
 body{
-	background-image: linear-gradient(to bottom, #b6ffff, #7cdaf9, #b6ffff);    
+	background-image: linear-gradient(to bottom, #b6ffff, #7cdaf9, #b6ffff);  
+	color: ;  
 }
 
 .navbar-collapse{ flex-grow: 0;}
+
+
+
+
+
+
+@media only screen and (max-width: 768px){
+
+
+
+
+
+
+}
+
